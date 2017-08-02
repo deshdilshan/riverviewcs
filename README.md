@@ -7,7 +7,7 @@ Go to the htdocs folder where you have installed .Open the cmd. Run this command
 Go to the project file which is reverviewcsassesments.
 Config the .env file. [put the username, password and database name of the database]
 Run “php artisan migrate”
-Go to this URL and install the postman chrom app in your chrome browser.
+Go to this https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en and install the postman chrom app in your chrome browser.
 
 *******API DOCUMENTATION********
 
@@ -42,5 +42,7 @@ Add this cron in your server
 Or if you need to see that manually run this command
 
 php artisan db:backup
+
+The backup file will store in the public/opt/backup/database folder.
 
     
