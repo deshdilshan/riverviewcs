@@ -3,7 +3,7 @@ This is assessment of the RiverView B2B.
 
 **********Getting start*********
 
-Go to the htdocs folder where you have installed .Open the cmd. Run this command “ git clone url-------------------- “
+Go to the htdocs folder where you have installed .Open the cmd. Run this command “ git clone https://github.com/deshdilshan/riverviewcs.git “
 Go to the project file which is reverviewcsassesments.
 Config the .env file. [put the username, password and database name of the database]
 Run “php artisan migrate”
